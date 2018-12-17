@@ -17,6 +17,6 @@ Contribute
 
 Resources
 ---------
-- Live Demo: http://www.advaitambeskar.com/
+- Live Demo: N/A
 - Documentation resource: https://www.writethedocs.org/guide/writing/beginners-guide-to-docs/
 
